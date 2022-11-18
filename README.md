@@ -1,11 +1,11 @@
 # City Rider Unity Project
 
 ## Screenshots
-<a href="https://postimg.cc/64WT9jHc" target="_blank"><img width ='180px' height = '380px' src="https://i.postimg.cc/brbn94k7/image.png"/></a> 
-<a href="https://postimg.cc/t1vBdw6Z" target="_blank"><img width ='180px' height = '380px' src="https://i.postimg.cc/vBbCydHz/image.png"/></a>
-<a href="https://postimg.cc/t1vBdw6Z" target="_blank"><img width ='180px' height = '380px' src="https://i.postimg.cc/vBbCydHz/image.png"/></a>
-<a href="https://postimg.cc/sQS0VKBM" target="_blank"><img width ='180px' height = '380px' src="https://i.postimg.cc/nzw8GPpG/image.png"/></a>
-<a href="https://postimg.cc/nXJm52xd" target="_blank"><img width ='180px' height = '380px' src="https://i.postimg.cc/kgVy2Ypd/image.png"/></a>
+<a href="https://postimg.cc/64WT9jHc" target="_blank"><img width ='110px' height = '220px' src="https://i.postimg.cc/brbn94k7/image.png"/></a> 
+<a href="https://postimg.cc/t1vBdw6Z" target="_blank"><img width ='110px' height = '220px' src="https://i.postimg.cc/vBbCydHz/image.png"/></a>
+<a href="https://postimg.cc/t1vBdw6Z" target="_blank"><img width ='110px' height = '220px' src="https://i.postimg.cc/vBbCydHz/image.png"/></a>
+<a href="https://postimg.cc/sQS0VKBM" target="_blank"><img width ='110px' height = '220px' src="https://i.postimg.cc/nzw8GPpG/image.png"/></a>
+<a href="https://postimg.cc/nXJm52xd" target="_blank"><img width ='110px' height = '220px' src="https://i.postimg.cc/kgVy2Ypd/image.png"/></a>
 
 ## Features
 
